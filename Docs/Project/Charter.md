@@ -2,8 +2,9 @@
 
 ## Business background
 
-* Who is the client, what business domain the client is in.
 * What business problems are we trying to address?
+* What is the gap with current process?
+* What is the solution to bridge the gap?
 
 ## Scope
 * What data science solutions are we trying to build?
